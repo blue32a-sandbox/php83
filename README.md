@@ -28,3 +28,8 @@
     - [空の配列に負のインデックスを割り当てる](./src/incompatible/negative-index-to-empty-array.php)
 - 標準ライブラリ
     - [range() 関数に対するさまざまな変更](./src/incompatible/range-function.php)
+
+## 推奨されなくなる機能
+
+- マルチバイト文字列
+    - [mb_strimwidth() に負の $width を渡すこと](./src/deprecated/mb-strimwidth.php)
