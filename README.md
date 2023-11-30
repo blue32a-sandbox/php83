@@ -26,3 +26,5 @@
 
 - PHPコア
     - [空の配列に負のインデックスを割り当てる](./src/incompatible/negative-index-to-empty-array.php)
+- 標準ライブラリ
+    - [range() 関数に対するさまざまな変更](./src/incompatible/range-function.php)
