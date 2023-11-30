@@ -20,3 +20,4 @@
     - [mb_str_pad()](./src/new-functions/mb-str-pad.php)
 - Random
     - [Random\Randomizer::getBytesFromString()](./src/new-functions/random-randomizer-getbytesfromstring.php)
+    - [Random\Randomizer::getFloat()](./src/new-functions/random-randomizer-getfloat.php)
