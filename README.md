@@ -18,3 +18,5 @@
     - [json_validate()](./src//new-functions/json-validate.php)
 - MBString
     - [mb_str_pad()](./src/new-functions/mb-str-pad.php)
+- Random
+    - [Random\Randomizer::getBytesFromString()](./src/new-functions/random-randomizer-getbytesfromstring.php)
