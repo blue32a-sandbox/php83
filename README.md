@@ -14,4 +14,7 @@
 
 ## 新しく追加された関数
 
-- [json_validate()](./src//new-functions/json-validate.php)
+- JSON
+    - [json_validate()](./src//new-functions/json-validate.php)
+- MBString
+    - [mb_str_pad()](./src/new-functions/mb-str-pad.php)
