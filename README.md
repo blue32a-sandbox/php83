@@ -11,3 +11,7 @@
 - [Override アトリビュート](./src/new-features/override-attribute.php)
 - 読み取り専用の修正
     - [読み取り専用プロパティのディープクローン](./src/new-features/readonly-properties-can-be-reinitialized-during-cloning.php)
+
+## 新しく追加された関数
+
+- [json_validate()](./src//new-functions/json-validate.php)
