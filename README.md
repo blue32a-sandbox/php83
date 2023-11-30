@@ -21,3 +21,8 @@
 - Random
     - [Random\Randomizer::getBytesFromString()](./src/new-functions/random-randomizer-getbytesfromstring.php)
     - [Random\Randomizer::getFloat()](./src/new-functions/random-randomizer-getfloat.php)
+
+## 下位互換性のない変更点
+
+- PHPコア
+    - [空の配列に負のインデックスを割り当てる](./src/incompatible/negative-index-to-empty-array.php)
