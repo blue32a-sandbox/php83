@@ -8,3 +8,4 @@
 
 - [クラス定数の型付け](./src/new-features/typed-class-constants.php)
 - [クラス定数への動的なアクセス構文](./src/new-features/fetch-class-constant-dynamically-syntax.php)
+- [Override アトリビュート](./src/new-features/override-attribute.php)
