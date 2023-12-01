@@ -1,17 +1,15 @@
 <?php
 
-class Hoge {
-    public function getValue() {
-        return 'hoge';
-    }
+class C1 {
+    public function hoge(): void {}
 }
 
-class Fuga extends Hoge {
+class C2 extends C1 {
     #[\Override]
-    public function getValue() {
-        return 'fuga';
-    }
+    public function hoge(): void {}
 }
 
-$fuga = new Fuga();
-var_dump($fuga->getValue());
+class C3 extends C1 {
+    #[\Override]
+    public function hogee(): void {}
+}
